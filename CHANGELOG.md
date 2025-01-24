@@ -1,5 +1,8 @@
 # Change log
 
+## Version 19.0.0 (2025-01-24)
+- Upgrade to Sumac
+
 ## Version 18.7.0 (2025-01-26)
 - feat: Add BRANDING_MFE_PLATFORM_REPO to set a custom frontend-platform
 - doc: Update README
